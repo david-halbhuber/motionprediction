@@ -1,0 +1,16 @@
+# Wavefront .mtl file  -  created by SpaceDraw
+
+# File created: 17-11-22, 20:21
+
+newmtl Untitled_3
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.498 0.498 0.498 
+Kd 0.498 0.498 0.498 
+Ks 0.498 0.498 0.498 
+Ke 0.0 0.0 0.0 
+map_Ka Untitled_3.png
+map_Kd Untitled_3.png
+

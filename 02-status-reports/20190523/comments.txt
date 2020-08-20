@@ -1,0 +1,4 @@
+- repetitive measurements
+- latency questionnaire
+- wimmer publication about latency
+- measure time difference using arduino solely (only transfer time difference not 2 time stamps; why pc?)

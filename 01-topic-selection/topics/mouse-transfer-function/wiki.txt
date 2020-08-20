@@ -1,0 +1,17 @@
+Since it was patented almost 40 years ago, the computer mouse has undoubtedly been the most popular pointing device  [1].
+Usually the movement of the mouse is conveyed to an output device by using a transfer function. This transfer function can take different forms and thus influence different parameters, such as pointer acceleration.
+Ultimately, the transfer function influences the representation and behavior of the mouse pointer displayed on the output device. This also changes user interaction and performance when performing certain tasks [2].
+To this day, it is not clearly defined what kind of transfer function leads to optimal user performance and experience. Even the most common operating systems implement their own different interpretation of a optimal transfer function[3].
+
+Reinforcement learning (RL) is a promising way of finding an optimal transfer function. RL is a variant of machine learning (ML) in which an attempt is made to solve a problem based on an action reward system.
+Unlike other ML methods, RL does not require prior knowledge (like labels) of the data to be processed [4]. Various studies have shown that methods based on RL produce significantly superior results in multi-dimensional problems (like playing computergames) than traditional methods [5].
+The most famous example for the successful use of an ML algorithm based on RL is the work of Deepmind published in 2016, in which the authors show how the designed software "AlphaGo" was able to beat the former European champion in the game "Go".
+
+Our research aims to combine state-of-the-art RL methods to optimize currently used transfer functions.
+
+[1] Engelbart, D. C. (1970). U.S. Patent No. 3,541,541. Washington, DC: U.S. Patent and Trademark Office.
+[2] Casiez, G., Vogel, D., Balakrishnan, R., & Cockburn, A. (2008). The impact of control-display gain on user performance in pointing tasks. Human–computer interaction, 23(3), 215-250.
+[3] Casiez, G., & Roussel, N. (2011, October). No more bricolage!: methods and tools to characterize, replicate and compare pointing transfer functions. In Proceedings of the 24th annual ACM symposium on User interface software and technology (pp. 603-614). ACM.
+[4] Sutton, R. S., & Barto, A. G. (1998). Introduction to reinforcement learning (Vol. 135). Cambridge: MIT press.
+[5] Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
+[6] Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Dieleman, S. (2016). Mastering the game of Go with deep neural networks and tree search. nature, 529(7587), 484.

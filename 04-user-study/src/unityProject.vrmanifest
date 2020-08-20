@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.musem_techbase.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\LocalAdmin\\Documents\\Projekte\\VR-Prediction\\VR4-Labor\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Musem_Techbase [Testing]"
+        }
+      }
+    }
+  ]
+}

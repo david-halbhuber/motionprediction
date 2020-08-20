@@ -1,0 +1,12 @@
+Parameterize the Generation of Realistic Faces
+
+The challenge for generating 3D human head models has been ongoing for many years and will continue to do so. As the technology is evolving rapidly the need for more realistic self-presentation e.g. in the virtual reality is increasing accordingly. [1]
+There are three types of approaches for modeling faces: parameter model, physiological muscle model and visual modeling based on images [2]. The research will focus on combining the parameter model and visual modeling based on images while using FaceMaker respectively Generative Adversarial Networks.
+FaceMaker as a procedural face generator shall be used for creating artifical avatar parameters resembling study participants appearance [3]. Study participants are encouraged to recreate their own appearance using FaceMaker. The derived parameters will be fed into Generative Adversarial Networks (GANs) as training data for generating more realistic faces. 
+GANs can be used for imitating any distribution of data e.g. images. These networks consist of a “Generative” part (Generator) and an “Adversarial” part (Discriminator). The Generator is using a label (or parameter) and tries to predict a feature while the Discriminator is given a feature and tries to predict a label. Both parts are learning and improving continuously. [4]
+Using this approach more realistic faces shall be derived.
+
+[1] In Kyu Park, Hui Zhang, Vladimir Vezhnevets, 2005, Image-Based 3D Face Modeling System
+[2] Shuqin Li, Huibai Wang, 2013, NorthChinaUniversity of Technology, Beijing, China, Realistic 3D Face Modeling and Application Research
+[3] V. Schwind, K. Wolf, N. Henze, 2017, FaceMaker - A Procedural Face Generator to Foster Character Design Research, In Game Dynamics (pp. 95-113)
+[4] O. Cary, 2018, accessed 30 April 2019, <https://towardsdatascience.com/generative-adversarial-networks-gans-a-beginners-guide-5b38eceece24> 

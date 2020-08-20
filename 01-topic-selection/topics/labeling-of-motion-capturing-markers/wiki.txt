@@ -1,0 +1,16 @@
+Nowadays, motion capturing systems offer a broad spectrum of possible applications, ranging from CGI effects in films and computer games to realistic virtual reality applications and analysis of body behaviour for medical research [1].
+While markerless approaches provide reasonable results [2], optical marker-based approaches are usually more accurate in detailed capture and rapid motion and at the same time more robust against occlusion [3].
+Markers are classified into active and passive. Active markers are already labeled and send signals to the cameras of the motion capturing system, 
+which can then calculate the skeleton of the object from the 3D positions of the markers. Because active markers require the user to carry wires, bulky sensors and other electronic devices, the approach with passive markers, 
+where the signals are exchanged solely by reflective material, is more commonly used [4]. However, with this method the markers must be labeled so that a skeleton can be calculated from them, 
+which causes problems especially with markers that are hidden over a certain period of time. While studies have been conducted to address the issue of automatic labeling of markers using machine learning for marker recognition [5] or initial poses [6] and pre-processing of images [7] for marker calibration, 
+the field of real-time automatic labeling of whole bodys using machine learning has not yet been opened up by open-source software. 
+
+
+[1] Flam, D., Pacheco de Queiroz, D., Louise Alves de Souza Ramos, T., Araújo, A., & Gomide, J. (2009). OpenMoCap: An Open Source Software for Optical Motion Capture.
+[2] Liu, Y., Stoll, C., Gall, J., Seidel, H. P., & Theobalt, C. (2011). Markerless Motion Capture of Interacting Characters Using Multi-view Image Segmentation.
+[3] Obdrzalek, S., Kurillo, G., Ofli, F., Bajcsy, R., Seto, E., Jimison, H., & Pavel, M. (2012) Accuracy and robustness of kinect pose estimation in the context of coaching of elderly population.
+[4] Yu, Q., Li, Q., & Deng, Z. (2007). Online Motion Capture Marker Labeling for Multiple Interacting Articulated Targets.
+[5] Han, S., Liu, B., Wang, R., Ye, Y., Twigg, C. D., & Kin, K. (2018). Online Optical Marker-based Hand Tracking with Deep Labels.
+[6] Meyer, J., Kuderer, M., Müller, J., & Burgard, W. (2014). Online marker labeling for fully automatic skeleton tracking in optical motion capture.
+[7] Schubert, T., Gkogkidis, A., Ball, T., & Burgard, W. (2015). Automatic Initialization for Skeleton Tracking in Optical Motion Capture.
