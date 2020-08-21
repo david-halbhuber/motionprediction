@@ -1,6 +1,6 @@
 # User Study
 
-This Unity application was developed for the user study for predicting body movements. The participant is virtually placed via OptiTracks motion capturing system and an HTC Vive as head mounted device in a scene similar to the real surroundings where the study takes place. Via external adjustments the motion captured body movements are getting intercepted, changed and projected on the participants virtual model based on different prediction values.
+This Unity application was developed for the user study for predicting body movements. For its development Unity 2019.3f16 was used. The participant is virtually placed via OptiTracks motion capturing system and an HTC Vive as head mounted device in a scene similar to the real surroundings where the study takes place. Via external adjustments the motion captured body movements are getting intercepted, changed and projected on the participants virtual model based on different prediction values.
 
 The application can be subdivided into three main purposes:
 
