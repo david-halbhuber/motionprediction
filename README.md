@@ -9,8 +9,8 @@ For the actual submission only the folder __submission__ , found in the root dir
 - [Evaluation Study](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Evaluation%20Study)
 - [Images General](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Images%20General)
 - [Intercepter Client](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Intercepter%20Client)
-- [Latency Test Framework](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Latency%Test%Framework)
-- [Neural Network](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Neural%Network)
+- [Latency Test Framework](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Latency%20Test%20Framework)
+- [Neural Network](https://github.com/Slimboy-90/motionprediction-/tree/master/submission/Neural%20Network)
 
 
 Each subfolder will be described in the following, starting with __Data Acquisition Study__: 
